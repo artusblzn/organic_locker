@@ -7,7 +7,7 @@
 **Computer domain:** Basic
 **Expertise domain:** Basic
 
-Carla, 25, ioga intructor, lives in a medium-size city in Brazil. She became vegan about one year ago e consums almost exclusively organic products. Due to busy life, Carla can't go every week to market to buy organic products, and when she finds them, they era very expensive. She would like to buy organic products directly from the small producers from her region without middlemen.
+Carla, 25, ioga intructor, lives in a large-size city in Brazil. She became vegan about one year ago e consums almost exclusively organic products. Due to busy life, Carla can't go every week to market to buy organic products, and when she finds them, they era very expensive. She would like to buy organic products directly from the small producers from her region without middlemen.
 
 **Critical tasks:**
 1. Buy products.
