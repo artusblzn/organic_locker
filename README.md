@@ -1,5 +1,5 @@
-# eCommerce
-A simple e-commerce application to demonstrate all the steps to create a software and to study Golang. 
+# OrganicLocker
+OrganicLocker is a project to demonstrate all the steps to create a software and to study Golang.
 
 ---
 
@@ -17,6 +17,10 @@ The repository is divided in two folders:
 
 - docs - in this folder there's the product vision, personas, scenarios, user stories and prototipes (mainly Figma files);
 - src - the source code and other necessary files.
+
+## OrganicLocker Business Strategy
+
+OrganicLocker is an e-commerce where consumers can buy organic-certified products directly from small producers. After the buying confirmation, the producer deposits the products in a specific locker. The buyer receives the delivery notification and can pick-up the products by using the QR code received.
 
 ---
 
