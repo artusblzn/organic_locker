@@ -113,5 +113,5 @@ The producer must be authenticated.
 2. The system shows a page only saying that the user has not yet created a virtual store.
 3. The producer clicks on "Create virtual store".
 4. The system shows the virtual store creation form.
-5. The producer inputs the name of its virtual store, the days of the week it delivers its products and the delivery/collection locations.
+5. The producer inputs the name of its virtual store, the days of the week it delivers its products and the delivery/collection locations, and uploads the organic producer certification.
 6. The system confirms the registration and redirects the producer to "My Products" page.
