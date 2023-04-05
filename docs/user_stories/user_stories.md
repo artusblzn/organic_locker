@@ -18,12 +18,13 @@
 | 14  | As producer, I want to answer an evaluation.                                     | 2            | To do      |
 | 15  | As consumer, I want to make questions to the producer.                           | 13           | To do      |
 | 16  | As producer, I want to answer questions made by the consumers.                   | 13           | To do      |
-| 17  | As consumer, I want to repeat a previou purchase.                                | 5            | To do      |
+| 17  | As consumer, I want to repeat a previous purchase.                               | 5            | To do      |
 | 18  | As consumer, I want to sort the virtual stores by best evaluations.              | 3            | To do      |
 | 19  | As consumer, I want to sort the virtual stores by nearest location.              | 2            | To do      |
-| 20  | As consumer, I want to cancel a purchase.                                        | 89           | To do      |
+| 20  | As consumer, I want to cancel a purchase.                                        | 89           | In exec    |
 | 21  | As producer, I want to create my virtual store.                                  | 136          | In exec    |
-
+| 22  | As consumer/producer, I want to edit my personal data.                           | 21           | To do      |
+| 23  | As consumer/producer, I want to see all my notifications                         | 89           | In exec    |
 
 [^1]: Priorities: Fibonacci sequence. From 1 to 136.
 [^2]: Status: done, in execution, to do

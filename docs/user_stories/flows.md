@@ -16,14 +16,14 @@ The consumer can be authenticated or not.
 
 The consumer must be authenticated.
 
-1. At a virtual store page, the consumer adds products to the basket.
-2. The consumer then clicks on "proceed to checkout".
-3. The system shows the list of products in the basket.
-4. The consumer can increase/decrease the number of a specific product or exclude it.
-5. The consumer must set the delivery/collection location for each producer that he's buying from.
-6. The consumer then clicks on "proceed to payment".
-7. The system shows a form.
-8. The consumer inputs credit card data.
+1. At a virtual store page, the consumer selects the products he wants to purchase.
+2. The consumer then clicks on "Proceed to Checkout".
+3. The system shows the list of delivery lockers.
+4. The consumer selects a delivery locker.
+5. The system shows a form.
+6. The consumer inputs credit card data and confirms.
+7. The systems shows a message saying that the purchase can be cancelled by the consumer only while its not confirmed by the producer.
+8. The consumer clicks on "I agree".
 9. The systems confirms the payment and redirects the consumer to "My Purchases" page.
 
 ## 07 As consumer/producer, I want to register myself at OrganicLocker.
@@ -32,7 +32,7 @@ The consumer/producer must not be authenticated.
 
 1. At any page, the user clicks on "register".
 2. The system shows the register form.
-3. The user inputs his data (name, e-mail, password, location: city and neighborhood) and clicks on "register.
+3. The user inputs his data (name, e-mail, password, location: city) and clicks on "register.
 4. The system confirms the registration and redirects the user to login page.
 
 ## 08 As producer, I want to register my products.
@@ -42,9 +42,9 @@ The producer must have created a virtual store.
 
 1. The producer goes to "My Products" page.
 2. The system shows a list of all producer's products.
-3. The producer clicks on "add product".
+3. The producer clicks on "Add product".
 4. The system shows a form for product registration.
-5. The producer inputs the product data (product name, photo, product type, description, quantity available and expiration date) and clicks on "register product".
+5. The producer inputs the product data (product name, product type, description, quantity available and expiration date) and clicks on "register product".
 6. The system confirms the product registration and redirects the user to "My Products".
 
 ## 09 As producer, I want to make my products available or unavailable to sell.
@@ -69,11 +69,10 @@ A consumer must have purchased a product.
 1. The producer goes to the tab "Pending confirmation" in "My sales" page.
 2. The system shows all pending confirmation sales for that producer.
 3. The producer can:
-    1. click on "Confirm all" to confirm the sale as whole;
-    2. click on "Cancel all" to cancel the sale as whole;
-    3. confirm and cancel items individually.
+    1. click on "Confirm" to confirm the sale as whole;
+    2. click on "Cancel" to cancel the sale as whole;
 4. The system confirms the action and refreshes the page.
-5. The systens send an e-mail to the consumer.
+5. The systens sends an e-mail to the consumer.
 
 ## 11 As producer, I want to register the delivery of the products.
 
