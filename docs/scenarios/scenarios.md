@@ -1,11 +1,8 @@
 ## #1 - buying products
 
 Carla needs to buy groceries to the week. During an interval at work, she authenticates herself at OrganicLocker and starts to browse the Markertplace. The website exhibits the producers.
-
-Among the showed producers, Carla clicks on one and she is redirected to its virtual store. She adds some products to the basket.
-
-During the close of purchase page, Carla selects the delivery/collect location. As Carla already uses OrganicLocker, she selects a registered credit card and closes the purchase.
-
+Among the showed producers, Carla clicks on one and she is redirected to its virtual store. She chooses the quantity of each product to be bought and proceeds to checkout.
+In the close of purchase page, Carla selects the delivery/collect location. As Carla already uses OrganicLocker, she selects a registered credit card and closes the purchase.
 
 ## #2 - refilling stock
 

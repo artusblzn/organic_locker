@@ -1,16 +1,17 @@
 # Carla - consumer
 
 **Name:** Carla
-**Profession:** Ioga intructor
+**Profession:** Ioga instructor
 **Education:** High school
 **Devices:** Smart phone; tablet; desktop
 **Computer domain:** Basic
 **Expertise domain:** Basic
 
-Carla, 25, ioga intructor, lives in a large-size city in Brazil. She became vegan about one year ago e consums almost exclusively organic products. Due to busy life, Carla can't go every week to market to buy organic products, and when she finds them, they era very expensive. She would like to buy organic products directly from the small producers from her region without middlemen.
+Carla, 25, ioga instructor, lives in a large-size city in Brazil. She became vegan about one year ago e consums almost exclusively organic products. Due to busy life, Carla can't go every week to market to buy organic products, and when she finds them, they are very expensive. She would like to buy organic products directly from the small producers from her region without middlemen.
 
 **Critical tasks:**
 1. Buy products.
+2. Collect products.
 
 ---
 
@@ -27,3 +28,4 @@ Manoel, 65, retired bus driver and small rural producer. After retiring, Manoel 
 
 **Critical tasks:**
 1. Post products to sell.
+2. Sell and deliver products.

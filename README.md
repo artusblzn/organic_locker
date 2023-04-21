@@ -19,7 +19,7 @@ The main objectives here are demonstrate and exercise the a good part of the roa
 
 The repository is divided in two folders:
 
-- docs - in this folder there's the product vision, personas, scenarios, user stories and prototipes (mainly Figma files);
+- docs - in this folder there's the product vision, personas, scenarios, user stories and prototipes (a link to a Figma project and some html/css/js);
 - src - the source code and other necessary files.
 
 ---
